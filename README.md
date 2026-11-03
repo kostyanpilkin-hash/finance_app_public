@@ -1,1 +1,1 @@
-# finance_app_publick
+# finance_app_public
